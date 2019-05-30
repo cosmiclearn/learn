@@ -12,3 +12,6 @@ https://www.cosmiclearn.com/lang-cn/python-index.php
 
 Learn Go-lang in French:
 https://www.cosmiclearn.com/lang-fr/go-index.php
+
+Learn Go-lang in Turkish:
+https://www.cosmiclearn.com/lang-tr/go-index.php
