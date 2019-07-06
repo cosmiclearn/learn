@@ -21,3 +21,6 @@ https://www.cosmiclearn.com/lang-cn/go-index.php
 
 Learn Go-lang in Spanish:
 https://www.cosmiclearn.com/lang-es/go-index.php
+
+Learn TypeScript in Simplified Chinese:
+https://www.cosmiclearn.com/lang-cn/typescript-index.php
