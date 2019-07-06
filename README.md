@@ -15,3 +15,9 @@ https://www.cosmiclearn.com/lang-fr/go-index.php
 
 Learn Go-lang in Turkish:
 https://www.cosmiclearn.com/lang-tr/go-index.php
+
+Learn Go-lang in Simplified Chinese:
+https://www.cosmiclearn.com/lang-cn/go-index.php
+
+Learn Go-lang in Spanish:
+https://www.cosmiclearn.com/lang-es/go-index.php
