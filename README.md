@@ -24,3 +24,12 @@ https://www.cosmiclearn.com/lang-es/go-index.php
 
 Learn TypeScript in Simplified Chinese:
 https://www.cosmiclearn.com/lang-cn/typescript-index.php
+
+Learn TypeScript in Spanish:
+https://www.cosmiclearn.com/lang-es/typescript-index.php
+
+Learn JavaScript in Simplified Chinese:
+https://www.cosmiclearn.com/lang-cn/javascript-index.php
+
+Learn JavaScript in Spanish:
+https://www.cosmiclearn.com/lang-es/javascript-index.php
