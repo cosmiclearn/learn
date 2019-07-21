@@ -34,5 +34,8 @@ https://www.cosmiclearn.com/lang-cn/javascript-index.php
 Learn JavaScript in Spanish:
 https://www.cosmiclearn.com/lang-es/javascript-index.php
 
+Learn JavaScript in Russian:
+https://www.cosmiclearn.com/lang-ru/javascript-index.php
+
 Learn HTML in Simplified Chinese:
 https://www.cosmiclearn.com/lang-cn/html-index.php
