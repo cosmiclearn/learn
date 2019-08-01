@@ -47,3 +47,6 @@ https://www.cosmiclearn.com/lang-ru/javascript-index.php
 ## HTML Tutorials.
 Learn HTML in Simplified Chinese:
 https://www.cosmiclearn.com/lang-cn/html-index.php
+
+Learn HTML in Spanish.
+https://www.cosmiclearn.com/lang-es/html-index.php
